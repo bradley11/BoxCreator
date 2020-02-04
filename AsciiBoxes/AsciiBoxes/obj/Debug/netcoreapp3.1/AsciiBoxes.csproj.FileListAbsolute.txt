@@ -1,0 +1,11 @@
+C:\Users\bradl\source\repos\AsciiBoxes\AsciiBoxes\obj\Debug\netcoreapp3.1\AsciiBoxes.csprojAssemblyReference.cache
+C:\Users\bradl\source\repos\AsciiBoxes\AsciiBoxes\obj\Debug\netcoreapp3.1\AsciiBoxes.AssemblyInfoInputs.cache
+C:\Users\bradl\source\repos\AsciiBoxes\AsciiBoxes\obj\Debug\netcoreapp3.1\AsciiBoxes.AssemblyInfo.cs
+C:\Users\bradl\source\repos\AsciiBoxes\AsciiBoxes\bin\Debug\netcoreapp3.1\AsciiBoxes.exe
+C:\Users\bradl\source\repos\AsciiBoxes\AsciiBoxes\bin\Debug\netcoreapp3.1\AsciiBoxes.deps.json
+C:\Users\bradl\source\repos\AsciiBoxes\AsciiBoxes\bin\Debug\netcoreapp3.1\AsciiBoxes.runtimeconfig.json
+C:\Users\bradl\source\repos\AsciiBoxes\AsciiBoxes\bin\Debug\netcoreapp3.1\AsciiBoxes.runtimeconfig.dev.json
+C:\Users\bradl\source\repos\AsciiBoxes\AsciiBoxes\bin\Debug\netcoreapp3.1\AsciiBoxes.dll
+C:\Users\bradl\source\repos\AsciiBoxes\AsciiBoxes\bin\Debug\netcoreapp3.1\AsciiBoxes.pdb
+C:\Users\bradl\source\repos\AsciiBoxes\AsciiBoxes\obj\Debug\netcoreapp3.1\AsciiBoxes.dll
+C:\Users\bradl\source\repos\AsciiBoxes\AsciiBoxes\obj\Debug\netcoreapp3.1\AsciiBoxes.pdb
