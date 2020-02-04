@@ -6,22 +6,36 @@ namespace AsciiBoxes
     {
         static void Main(string[] args)
         {
-            int w;
-            int h;
-            Boolean repeat = true;
+            int w = 0;
+            int h = 0;
+            bool repeat = true;
             string response;
 
             //loop to keep the program running if more boxes are needed
             while (repeat)
             {
+                bool entryCheck = true;
                 //try catch to stop invalid inputs
                 try
                 {
-                    //assigning user inputs
-                    Console.WriteLine("Please Enter the Width of the Box");
-                    w = Int32.Parse(Console.ReadLine());
-                    Console.WriteLine("Please Enter the Height of the Box");
-                    h = Int32.Parse(Console.ReadLine());
+                    //while loop to further catch some invalid inputs
+                    while (entryCheck)
+                    {
+                        //assigning user inputs
+                        Console.WriteLine("Please Enter the Width of the Box");
+                        w = Int32.Parse(Console.ReadLine());
+                        Console.WriteLine("Please Enter the Height of the Box");
+                        h = Int32.Parse(Console.ReadLine());
+
+                        if (w <= 1 || h <= 1)
+                        {
+                            Console.WriteLine("Please enter a number greater than 1");
+                        }
+                        else
+                        {
+                            entryCheck = false;
+                        }
+                    }
                 }
                 catch
                 {
